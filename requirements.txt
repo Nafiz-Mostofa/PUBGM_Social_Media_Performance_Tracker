@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+selenium
+webdriver-manager
+groq
+bcrypt
+loguru
+secure
+python-jose[cryptography]
+python-multipart
+pandas
+openpyxl
+httpx
